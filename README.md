@@ -35,14 +35,11 @@
   <img align="center" alt="Jenny-Microsoft_SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
 
 
- 
- 
- 
  ## <h1> ✨  Entre em contato comigo!  ✨ </h1>
  
 - 📫 How to reach me ...
 
-
+  ![Snake animation](https://github.com/JennyMello/JennyMello/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 JennyMello/JennyMello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
