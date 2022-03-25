@@ -1,4 +1,8 @@
-- ## 👋 Hi, I’m Jeniffer Pereira de Oliveira Mello
+ <h1> 👋  Hi there, I'm Jeniffer Pereira de Oliveira Mello! :computer: :rocket: <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></h1> 
+</header>
+#### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
+-
+#### Espero que gostem dos conteúdos ??
 - 🌱 I’m currently learning Power BI and how to use github
 - 👀 I’m interested in learn Data Analyst
 
@@ -20,7 +24,8 @@
 </div>
 
 
-
+ ## <h1>? Entre em contato comigo! ?</h1>
+ 
 - 📫 How to reach me ...
 
 
