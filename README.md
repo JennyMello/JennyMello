@@ -1,11 +1,11 @@
  <h1> 👋  Hi there, I'm Jeniffer Mello! 👩🏻‍💻 :rocket: <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></h1> 
 </header>
 
-#### I created this profile to publish my projects, my ideas and my studies.
+#### I created this profile to publish my projects, my ideas and my studies. 
 #### Hope you like the content :computer: 
 
 - 🌱 I’m currently learning Power BI and how to use github
-- 👀 I’m interested in learn Data Analyst
+- 👀 I'm a self-taught passionate Data Science from New Jersey - USA
 
 <div align="center">
   <a href="https://github.com/JennyMello">
