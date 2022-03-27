@@ -1,9 +1,8 @@
  <h1> 👋  Hi there, I'm Jeniffer Mello! 👩🏻‍💻 :rocket: <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></h1> 
 </header>
 
-### I created this profile to publish my projects, my ideas and my studies.
-
-### Hope you like the content :computer: 
+#### I created this profile to publish my projects, my ideas and my studies.
+#### Hope you like the content :computer: 
 
 - 🌱 I’m currently learning Power BI and how to use github
 - 👀 I’m interested in learn Data Analyst
@@ -33,19 +32,15 @@
   <img align="center" alt="Jenny-Visual_Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img align="center" alt="Jenny-Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)">
   <img align="center" alt="Jenny-Microsoft_SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
-
-
- ## <h1> ✨  Entre em contato comigo!  ✨ </h1>
  
-- 📫 How to reach me ...
-
+ ### <h2> ✨  How to reach me  ✨ </h2>
 <div> 
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7471?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jennymello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeniffer-mello-9b0854b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <div>
- <h1 align="center"> Visitantes </h1>
+ <h2 align="center"> Visitors </h2>
  <p align="center">   
  <img alingn="center" src="https://profile-counter.glitch.me/JennyMello/count.svg" /></p>
  </div>
