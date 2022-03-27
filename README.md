@@ -1,4 +1,4 @@
- <h1> 👋  Hi there, I'm Jeniffer Pereira de Oliveira Mello! 👩🏻‍💻 :rocket: <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></h1> 
+ <h1> 👋  Hi there, I'm Jeniffer Mello! 👩🏻‍💻 :rocket: <img align="right" alt="Jeyci-Js" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></h1> 
 </header>
 
 ### I created this profile to publish my projects, my ideas and my studies.
@@ -44,6 +44,12 @@
   <a href = "mailto:jennymello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeniffer-mello-9b0854b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  <div>
+ <h1 align="center"> Visitantes </h1>
+ <p align="center">   
+ <img alingn="center" src="https://profile-counter.glitch.me/JennyMello/count.svg" /></p>
+ </div>
+ 
    ![Snake animation](https://github.com/JennyMello/JennyMello/blob/output/github-contribution-grid-snake.svg)
  
 <!---
