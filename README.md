@@ -32,12 +32,13 @@
   <img align="center" alt="Jenny-Visual_Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img align="center" alt="Jenny-Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)">
   <img align="center" alt="Jenny-Microsoft_SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
- 
- ### <h2> ✨  How to reach me  ✨ </h2>
+  <img align="center" alt="Jenny-Microsoft_Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
+      
+ ### <h2> 💬 Ask me about anything here </h2>
 <div> 
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7471?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jennymello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeniffer-mello-9b0854b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/Jeniffer-Mello-DataAnalyst" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <div>
  <h2 align="center"> Visitors </h2>
@@ -47,7 +48,17 @@
  
    ![Snake animation](https://github.com/JennyMello/JennyMello/blob/output/github-contribution-grid-snake.svg)
  
+ 
+  <div>
+ <p align="center">   
+ <img alingn="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg" /></p>
+ </div>
+ 
+ 
+ 
+ 
+ 
 <!---
 JennyMello/JennyMello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.   ✨  How to reach me  ✨ 
 --->
